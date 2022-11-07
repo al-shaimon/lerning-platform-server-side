@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "name": "HTML5",
+    "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHRtbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+    "title": "Welcome to our HTML5 course!",
+    "description": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard.",
+    "price": "500",
+    "prime_img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "Dhaka,Bangladesh"
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "img": "https://as1.ftcdn.net/v2/jpg/03/81/07/66/1000_F_381076667_Qb8hQrqsOvNEvS51H9QHhDqtn3yf1yJI.jpg",
+    "title": "Welcome to our CSS course!",
+    "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+    "price": "700",
+    "prime_img": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "Khulna, Bangladesh"
+  },
+  {
+    "id": "03",
+    "name": "JAVASCRIPT",
+    "img": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?size=626&ext=jpg&ga=GA1.2.33462932.1658423782&semt=sph",
+    "title": "Welcome to our JAVASCRIPT course!",
+    "description": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
+    "price": "1000",
+    "prime_img": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "Satkhira, Bangladesh"
+  },
+  {
+    "id": "04",
+    "name": "REACT JS",
+    "img": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBqc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "title": "Welcome to our REACT JS course!",
+    "description": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+    "price": "1500",
+    "prime_img": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhY3QlMjBqc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "CTG, Bangladesh"
+  },
+  {
+    "id": "05",
+    "name": "PYTHON",
+    "img": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHl0aG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "title": "Welcome to our PYTHON course!",
+    "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+    "price": "1200",
+    "prime_img": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHl0aG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "Barishal, Bangladesh"
+  },
+  {
+    "id": "06",
+    "name": "PHP",
+    "img": "https://img.freepik.com/premium-photo/php-programming-code-abstract-technology-background_272306-152.jpg?size=626&ext=jpg&ga=GA1.2.33462932.1658423782&semt=sph",
+    "title": "Welcome to our PHP course!",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor ) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "price": "900",
+    "prime_img": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "location": "Dhaka, Gulshan, Bangladesh"
+  }
+]
