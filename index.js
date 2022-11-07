@@ -13,8 +13,14 @@ app.get('/', (req, res) => {
 });
 
 app.get('/courseData', (req, res) => {
-  res.send(courses)
-})
+  res.send(courses);
+});
+
+app.get('/course-category/:id', (req, res) => {
+  const id = req.params.id;
+  const category = courses.find((cc) => cc.id == id);
+  res.send(category);
+});
 
 app.listen(port, () => {
   console.log(`server running on port, ${port}`);
